@@ -26,7 +26,7 @@ KuyHack adalah arsenal gelap yang dipersenjatai dengan automasi cerdas untuk men
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
-$ git clone --depth 1 https://github.com/RozhakXD/KuyHack.git
+$ git clone --depth 1 https://github.com/RozhakDev/KuyHack.git
 $ cd "KuyHack"
 $ pip install -r requirements.txt
 $ chmod +x Run
